@@ -1,7 +1,5 @@
 # Sales-Performance-Analysis
 
-# Sales Performance Analysis
-
 ## Project Overview
 The Sales Performance Analysis project aims to evaluate and analyze the sales performance of a company using R. This project leverages historical sales data to gain insights into sales trends, identify top-performing products and regions, and provide actionable recommendations to improve sales strategies. By conducting a thorough analysis, businesses can better understand their market dynamics and make data-driven decisions to enhance their sales performance.
 
